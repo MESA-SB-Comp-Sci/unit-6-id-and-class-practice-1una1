@@ -53,13 +53,22 @@
    ───────────────────────────────────────────── */
 
 /* Task 6: Write a CLASS rule called "highlight" */
-
+.highlight{
+   color: brown;
+   size: 30px;
+}
 
 /* Task 7: Write a CLASS rule called "list-style" */
 
-
+.list-style{
+   background-color: antiquewhite;
+   border: dotted yellow;
+}
 /* Task 8: Write an ID rule called "page-heading" */
-
+#page-heading{
+   border: groove solid pink;
+   color:blue;
+}
 
 /* ─────────────────────────────────────────────
    PART 3 — Open Ended
@@ -68,9 +77,16 @@
    ───────────────────────────────────────────── */
 
 /* Your class rule 1 */
-
+.cyan-bg{
+   background-color: cyan;
+}
 
 /* Your class rule 2 */
-
+.groovy-border{
+   border: groove;
+}
 
 /* Your ID rule */
+#footer{
+   border: blue;
+}
